@@ -1,0 +1,2 @@
+{"level":30,"time":1750594098343,"pid":40962,"hostname":"NozominoMacBook-Air.local","name":"direct-js","p1":"WebSocket opened.","p2":"","p3":"","p4":"","p5":""}
+{"level":30,"time":1750594099004,"pid":40962,"hostname":"NozominoMacBook-Air.local","name":"Hubot","msg":"hubot-redis-brain: Discovered redis from REDIS_URL environment variable"}
